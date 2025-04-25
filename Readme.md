@@ -66,6 +66,10 @@ You can add, edit, mark, share, and delete tasks.
 
 ---
 
+## Demo
+
+[Click here to watch the demo video](assets/todo-app-demo.mp4)
+
 ## Project Structure
 
 App.js
